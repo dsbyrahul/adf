@@ -1,0 +1,15 @@
+{
+	"name": "testDF26Oct",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49287d6d-1fd3-4096-8fa3-968ef443ccee",
+		"tenantId": "a5d533e3-5295-42f9-ad6a-69671d385c55"
+	}
+}
